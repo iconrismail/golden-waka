@@ -17,7 +17,6 @@ dist-ssr
 
 # Large binary assets — host on CDN for production
 public/frames/
-public/videos/
 
 # Editor directories and files
 .vscode/*

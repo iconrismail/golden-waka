@@ -15,6 +15,10 @@ dist-ssr
 # Claude memory (contains sensitive credentials)
 .claude/
 
+# Large binary assets — host on CDN for production
+public/frames/
+public/videos/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

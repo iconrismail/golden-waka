@@ -29,3 +29,4 @@ public/videos/
 *.njsproj
 *.sln
 *.sw?
+deploy.zip

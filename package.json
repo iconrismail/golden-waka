@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "deploy": "vite build && cp -r public/frames dist/frames && cp -r public/videos dist/videos",
     "lint": "eslint .",
     "preview": "vite preview"
   },
